@@ -1,44 +1,22 @@
-## Hello, I'm Adriana! 👋
+<h1 align="center">Hi 👋, I'm Adriana</h1>
+<h3 align="center">Industrial Engineer with specialisation in Automation and Electronics | Passionate programmer and tech enthusiast. Always seeking new ways to learn and enhance my skills</h3>
 
-### About Me
-Welcome to my GitHub profile! I'm a passionate programmer and tech enthusiast, always seeking new ways to learn and enhance my skills. My primary focus is on [mention your areas of interest or specialization, like web development, artificial intelligence, mobile applications, etc.].
+- 👨‍💻 Experience in **Data Science, ML, AI**
 
-### What You'll Find Here
-In this repository, you'll discover a variety of projects and works I've been tinkering with. From small tools and scripts to more ambitious endeavors, I love delving into different facets of programming and putting into practice what I've learned.
+- 🌱 I’m currently **expanding mi knowledge, improving my skills, and consolidating my expertise**
 
-### My Skills
-My proficiency encompasses an array of software and tools, including:
-• **Software & Tools:** Microsoft Office, LaTeX, MATLAB, Simulink, R Studio, C, C++, Python, Arduino, ROS, Microchip Studio, VHDL, LTSpice, PLECS, Solid Edge, Salesforce.
-• **Learning Enthusiasm:** My capacity to swiftly adapt and my voracity for learning underscore my commitment to mastering new skills.
+- 🤓 Seeking to become **a full-stack developer**
 
-### My Goals
-I'm constantly seeking exciting challenges that allow me to grow as a developer. My goals include:
-[Mention a few of your goals, such as learning a new programming language, contributing to open-source projects, obtaining a certification, etc.]
+- 🔭 I’m currently working on **Artificial Intelligence and Machine Learning**
 
-### Collaboration
-I thrive on collaborating with fellow developers and learning from their experiences! If you're interested in teaming up on a project or have ideas for collaborations, feel free to get in touch.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/adriana-rodriguez-vallejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/adriana-rodriguez-vallejo" height="30" width="40" /></a>
+</p>
 
-### Contact
-You can find me on various platforms:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-GitHub: YourUsername
-LinkedIn: YourLinkedInProfile
-Twitter: @YourTwitterHandle
-Feel free to follow me on these platforms to stay connected and keep up with my latest projects and developments!
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianrdv&show_icons=true&locale=en&layout=compact" alt="adrianrdv" /></p>
 
-Thank you for visiting my profile, and I hope you enjoy exploring my projects! 🚀
-
-<!--
-**adrianardv/adrianardv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianrdv&show_icons=true&locale=en" alt="adrianrdv" /></p>
