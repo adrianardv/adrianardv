@@ -28,5 +28,5 @@
 
 
 
-
-<h4 align="left"> :warning: <strong>This GitHub page is a work in progress...</strong> :hammer_and_wrench::nerd_face::rocket:</p> </h4>
+<h4 align="center"> </h4>
+:warning: <strong>This GitHub page is a work in progress...</strong> :hammer_and_wrench::nerd_face::rocket:</p>
