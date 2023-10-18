@@ -29,4 +29,4 @@
 
 
 
-<p style="font-size: 100px;">:warning: <strong>This GitHub page is a work in progress...</strong> :hammer_and_wrench::nerd_face::rocket:</p> </h3>
+<h4 align="left"> :warning: <strong>This GitHub page is a work in progress...</strong> :hammer_and_wrench::nerd_face::rocket:</p> </h4>
