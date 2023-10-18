@@ -27,4 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianardv&show_icons=true&locale=en" alt="adrianardv" /></p>
 
 
-<p style="font-size: 20px;">:warning: <strong>This GitHub page is a work in progress...</strong> :hammer_and_wrench::nerd_face::rocket:</p>
+
+
+<p style="font-size: 100px;">:warning: <strong>This GitHub page is a work in progress...</strong> :hammer_and_wrench::nerd_face::rocket:</p> </h3>
