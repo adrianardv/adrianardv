@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Adriana</h1>
 <h3 align="center">Industrial Engineer with specialisation in Automation and Electronics :mortar_board: </h3>
-<h3 align="center">Passionate programmer and tech enthusiast | Always seeking new ways to learn and enhance my skills</h3>
+<h4 align="center">Passionate programmer and tech enthusiast | Always seeking new ways to learn and enhance my skills</h4>
 <h4 align="center"> </h4>
 
-- 👨‍💻 Experience in **Data Science, ML, AI**
+- 👨‍💻 I’m currently working on **Artificial Intelligence and Machine Learning**
 
-- 🌱 I’m currently **expanding mi knowledge, improving my skills, and consolidating my expertise**
+- 🌱 In the process of **expanding mi knowledge, improving my skills, and consolidating my expertise**
 
-- 🤓 Seeking to become a **full-stack developer**
-
-- 🔭 I’m currently working on **Artificial Intelligence and Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
