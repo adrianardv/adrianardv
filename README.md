@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently working on **Artificial Intelligence and Machine Learning**
 
-- 🌱 In the process of **expanding mi knowledge, improving my skills, and consolidating my expertise**
+- 🌱 In the process of **expanding mi knowledge, and improving my skills**
 
 
 <h3 align="left">Connect with me:</h3>
